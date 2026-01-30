@@ -21,5 +21,7 @@ Catalogue your photos
 Base64 encoded string provided a nice way to handle images in json.  It will be up to the Frontend dev to convert image to json.
 Thanks to Spring Framework Guru - John Thompson for the great course "Spring AI: Beginner to Guru"
 
+### Deployment on ECR
+
 
 
